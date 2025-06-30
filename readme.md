@@ -1,4 +1,4 @@
-## 📚 Book-Store-API-Server
+## 📚 Book-Store-API-Server-for-j
 
 A feature-rich and secure RESTful API for managing books, orders, users, and payments. Built with **Node.js, Express, TypeScript, and MongoDB**, this server powers the **Book Store Web App**, supporting functionalities like book management, order processing, authentication, and payment tracking.
 
