@@ -7,7 +7,7 @@ const getAllBlogFromDb = async (query: Record<string, unknown>) => {
   console.log(queryObj);
   const search = query?.search || '';
   // title content
-
+s//...my new jurny start now
   const searchQuery = Blog.find({
     $or: searchAbleFields.map((field) => ({
       [field]: { $regex: search, $options: 'i' },
