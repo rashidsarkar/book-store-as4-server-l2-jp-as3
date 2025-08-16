@@ -9,7 +9,7 @@ A feature-rich and secure RESTful API for managing books, orders, users, and pay
 ### 📖 **Book Management**
 
 - Add, update, delete, and retrieve books.
-- Search functionality to find books by title, author, or category.
+- Search functionality to find books by title, author, or category
 - Stock tracking to manage availability.
 
 ### 🛒 **Order Processing**
